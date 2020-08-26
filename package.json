@@ -1,0 +1,14 @@
+{
+  "name": "hello-vercel",
+  "version": "1.0.0",
+  "author": "duocnguyen <nguyenvanduocit@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cz-conventional-changelog": "3.2.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
